@@ -1,3 +1,3 @@
-module github.com/astranotus8_gmail.com/mypackage/v1.0.0
+module module github.com/astranotus/math
 
 go 1.19
